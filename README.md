@@ -24,7 +24,7 @@ Target: com.pt.ar.wallet
 
 ## 2. AR Web Sniper (Web)
 
-Target: https://arbpay.co
+Target: Web Portal
 
 * **In-App Browser:** 20dp rounded web container.
 * **JS Engine:** Sub-millisecond DOM order detection and instant grabbing.
