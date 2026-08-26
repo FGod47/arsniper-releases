@@ -4,22 +4,22 @@ High-speed order sniping suite for Android app and web portal.
 
 ## Downloads
 
-* **AR Sniper (App):** [ARSniper-Release-v1.0.9.apk](https://github.com/FGod47/arsniper-releases/releases/download/v1.0.9/ARSniper-Release-v1.0.9.apk)
-* **AR Web Sniper (Web):** [ARWebSniper-Release-v1.0.1.apk](https://github.com/FGod47/arsniper-releases/releases/download/v1.0.9/ARWebSniper-Release-v1.0.1.apk)
+* **AR Sniper (App):** [ARSniper-Release-v1.1.0.apk](https://github.com/FGod47/arsniper-releases/releases/download/v1.1.0/ARSniper-Release-v1.1.0.apk)
+* **AR Web Sniper (Web):** [ARWebSniper-Release-v1.0.1.apk](https://github.com/FGod47/arsniper-releases/releases/download/v1.1.0/ARWebSniper-Release-v1.0.1.apk)
 
 ---
 
-## 1. AR Sniper (App)
+## 1. AR Sniper (App v1.1.0)
 
 Target: com.pt.ar.wallet
 
-* **Instant Grab:** Low-latency order detection and 2-stage instant buy.
-* **Auto Payment:** Auto-selects PhonePe or Paytm.
-* **Ultra-Low Latency Tab Toggle:** Single-pass resolution with 12ms high-speed tab refresh.
-* **Speed Presets:** 150ms, 250ms, 500ms, 1000ms.
-* **Amount Filters:** Exact target amounts (100, 500, 1000, Custom) and Range slider.
-* **Floating Widget:** Draggable overlay with 1-tap start/stop and emergency banking kill.
-* **Live Terminal:** Real-time activity log.
+* **Strict 1:1 Card Hierarchy Containment:** Guarantees zero wrong-amount grabs across all modes (No-Scroll, Scroll, and Filter).
+* **Instant Grab & Active Scanning:** Continuous loop order detection and instant post-refresh execution.
+* **Auto Payment Selection:** Auto-selects PhonePe or Paytm in confirmation flows.
+* **Ultra-Low Latency Tab Toggle:** Rapid 25ms + 25ms server refresh mechanism.
+* **Floating Widget with Speed (ms) Chip:** Draggable overlay with live speed cycle pill, quick picker dialog, 1-tap start/stop, and emergency banking kill.
+* **Mode Speed Benchmark Leaderboard:** Live latency statistics and fastest mode tracker.
+* **Spacious Live Activity Terminal:** Seamless single-surface Material 3 logs terminal.
 
 ---
 
